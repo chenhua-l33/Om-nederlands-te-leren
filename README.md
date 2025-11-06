@@ -1,6 +1,6 @@
 # Dutch Word Analyzer
 
-An AI agent tool for reading dutch books using Wiktionary API
+An AI agent tool for encountered new words when reading dutch books
 
 - **Word meanings** (definitions from Wiktionary)
 - **Grammatical forms** with accurate irregular verb handling:
